@@ -1,0 +1,8 @@
+{
+  "name": "PalmTask PWA",
+  "description": "A high-performance sales and task management application for sales teams.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
